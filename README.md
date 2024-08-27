@@ -1,4 +1,4 @@
-# **Baconian Cipher Program**
+# **Baconian Cipher Program using C++**
 
 
 #### The Baconian cipher is a type of substitution cipher where each letter of the plaintext is replaced by a group of five characters, typically 'A' and 'B'. It is named after Sir Francis Bacon, who popularized its use in the late 16th century.
